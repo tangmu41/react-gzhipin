@@ -1,0 +1,7 @@
+gzhipin-client/node_modules/
+gzhipin-client/build/
+gzhipin-client_final/node_modules/
+gzhipin-client_final/build/
+gzhipin-server/node_modules/
+gzhipin-server_final/node_modules/
+redux_mini/node_modules/
